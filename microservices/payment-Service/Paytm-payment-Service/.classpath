@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Paytm-payment-Service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Paytm-payment-Service/src/main/java"/>
+	<classpathentry kind="src" path="Paytm-payment-Service/src/test/java"/>
+	<classpathentry kind="output" path="Paytm-payment-Service/target/classes"/>
+</classpath>
